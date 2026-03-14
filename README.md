@@ -19,6 +19,10 @@ The analysis includes:
 - Higher FICO scores and borrower income correspond to lower default risk
 - The model achieves appx. 80% classification accuracy, though class imbalance reduces the model's ability to detect some defaulted loans
 
+## Predicted Probability of Default Distribution
+
+![PD Distribution](pd_distribution.png)
+
 ## Tools Used
 
 - Python
